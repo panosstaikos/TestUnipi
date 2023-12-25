@@ -1,0 +1,228 @@
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.exe
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.deps.json
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.runtimeconfig.json
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\strat\Desktop\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.AssemblyReference.cache
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.chooseTest.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.DysCourseList2.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Login.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Menu.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.PsyCoursesListForm.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Recommendation.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.RegisterForm.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.ShowTheory.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Test.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Theory.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.TlesCoursesListForm.resources
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.GenerateResource.cache
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfoInputs.cache
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfo.cs
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CoreCompileInputs.cache
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CopyComplete
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\refint\MyCareerApp.dll
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.genruntimeconfig.cache
+C:\Users\strat\Desktop\PapeiRecommender\obj\Debug\net6.0-windows\ref\MyCareerApp.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.exe
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.deps.json
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.runtimeconfig.json
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.AssemblyReference.cache
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.chooseTest.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.DysCourseList2.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Login.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Menu.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.PsyCoursesListForm.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Recommendation.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.RegisterForm.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.ShowTheory.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Test.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Theory.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.TlesCoursesListForm.resources
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.GenerateResource.cache
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfoInputs.cache
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfo.cs
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CoreCompileInputs.cache
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CopyComplete
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\refint\MyCareerApp.dll
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.genruntimeconfig.cache
+C:\Users\Πόλο\Desktop\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\ref\MyCareerApp.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.exe
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.deps.json
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.runtimeconfig.json
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.AssemblyReference.cache
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.chooseTest.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.DysCourseList2.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Login.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Menu.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.PsyCoursesListForm.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Recommendation.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.RegisterForm.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.ShowTheory.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Test.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.Theory.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.TlesCoursesListForm.resources
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.GenerateResource.cache
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfoInputs.cache
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfo.cs
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CoreCompileInputs.cache
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.csproj.CopyComplete
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\refint\MyCareerApp.dll
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\MyCareerApp.genruntimeconfig.cache
+C:\Users\panos\Downloads\PapeiRecommender (1)\PapeiRecommender\PapeiRecommender\obj\Debug\net6.0-windows\ref\MyCareerApp.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MyCareerApp.exe
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MyCareerApp.deps.json
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MyCareerApp.runtimeconfig.json
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MyCareerApp.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\TmpPrivate\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.csproj.AssemblyReference.cache
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.chooseTest.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.DysCourseList2.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.Login.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.Menu.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.PsyCoursesListForm.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.Recommendation.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.RegisterForm.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.ShowTheory.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.Test.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.Theory.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.TlesCoursesListForm.resources
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.csproj.GenerateResource.cache
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfoInputs.cache
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.AssemblyInfo.cs
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.csproj.CoreCompileInputs.cache
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.csproj.CopyComplete
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.dll
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\refint\MyCareerApp.dll
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.pdb
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\MyCareerApp.genruntimeconfig.cache
+C:\Projects\TmpPrivate\obj\Debug\net6.0-windows\ref\MyCareerApp.dll
